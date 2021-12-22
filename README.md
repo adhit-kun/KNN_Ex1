@@ -1,9 +1,10 @@
 # KNN_Ex1
 Algoritma K-Nearest Neighbor (Studi kasus Financial Distress pada Bank Konvensional tahun 2008 - 2010)
 
-###########
+
+###################
 kebutuhan untuk menjalankan program:
-###########
+###################
 
  - python 3.7.1
  - Panda
