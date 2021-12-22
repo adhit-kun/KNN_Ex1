@@ -3,7 +3,7 @@ Algoritma K-Nearest Neighbor (Studi kasus Financial Distress pada Bank Konvensio
 
 
 ###################
-kebutuhan untuk menjalankan program:
+kebutuhan Program:
 ###################
 
  - python 3.7.1
