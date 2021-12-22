@@ -1,0 +1,61 @@
+Bank,KODE,Tahun,X1,X2,X3,X4,X5,Z-Score,Class
+Bank Artha Graha Internasional Tbk.,BAGI,2008,0.46,0.002,0.002,0.023,0.098,0.6708,Bankcrupt
+Bank Artha Graha Internasional Tbk.,BAGI,2009,0.56,0.004,0.003,0.08,0.108,0.8387,Bankcrupt
+Bank Artha Graha Internasional Tbk.,BAGI,2010,0.5,0.008,0.005,0.112,0.092,0.7905,Bankcrupt
+Bank Bukopin Tbk.,BBKP,2008,0.18,0.017,0.011,0.115,0.113,0.4521,Bankcrupt
+Bank Bukopin Tbk.,BBKP,2009,0.15,0.014,0.01,2.601,0.111,1.909,Grey Area
+Bank Bukopin Tbk.,BBKP,2010,0.13,0.013,0.01,9.877,0.092,6.2254,Non Bankcrupt
+Bank Bumi Artha Tbk.,BNBA,2008,1.13,0.02,0.014,0.065,0.108,1.5772,Grey Area
+Bank Bumi Artha Tbk.,BNBA,2009,0.96,0.014,0.012,1.752,0.096,2.3596,Grey Area
+Bank Bumi Artha Tbk.,BNBA,2010,0.87,0.014,0.01,6.093,0.094,4.844,Non Bankcrupt
+Bank Capital Indonesia Tbk.,BACA,2008,0.89,0.011,0.007,0.455,0.1,1.4759,Grey Area
+Bank Capital Indonesia Tbk.,BACA,2009,1.3,0.008,0.006,22.187,0.07,14.978,Non Bankcrupt
+Bank Capital Indonesia Tbk.,BACA,2010,1.03,0.007,0.005,4.97,0.08,4.3195,Non Bankcrupt
+Bank Central Asia Tbk.,BBCA,2008,0.1,0.031,0.024,1.804,0.094,1.419,Grey Area
+Bank Central Asia Tbk.,BBCA,2009,0.09,0.03,0.024,10.756,0.097,6.7762,Non Bankcrupt
+Bank Central Asia Tbk.,BBCA,2010,0.08,0.032,0.026,9.444,0.086,5.9742,Non Bankcrupt
+Bank CIMB Niaga Tbk.,BNGA,2008,0.23,0.013,0.007,0.258,0.111,0.5855,Bankcrupt
+Bank CIMB Niaga Tbk.,BNGA,2009,0.22,0.019,0.015,0.433,0.12,0.7235,Bankcrupt
+Bank CIMB Niaga Tbk.,BNGA,2010,0.17,0.023,0.018,7.736,0.096,5.0296,Non Bankcrupt
+Bank Danamon Indonesia Tbk.,BDMN,2008,0.05,0.025,0.014,1.112,0.163,0.9678,Bankcrupt
+Bank Danamon Indonesia Tbk.,BDMN,2009,0.09,0.028,0.016,19.934,0.188,12.3424,Non Bankcrupt
+Bank Danamon Indonesia Tbk.,BDMN,2010,0.07,0.039,0.024,1.03,0.152,0.989,Bankcrupt
+Bank Ekonomi Raharja Tbk.,BAEK,2008,0.15,0.021,0.014,0.215,0.09,0.471,Bankcrupt
+Bank Ekonomi Raharja Tbk.,BAEK,2009,0.12,0.021,0.015,36.88,0.084,22.4397,Non Bankcrupt
+Bank Ekonomi Raharja Tbk.,BAEK,2010,0.12,0.018,0.014,0.65,0.076,0.6862,Bankcrupt
+Bank Himpunan Saudara 1906 Tbk.,SDRA,2008,0.76,0.028,0.019,0.16,0.157,1.2657,Grey Area
+Bank Himpunan Saudara 1906 Tbk.,SDRA,2009,0.62,0.022,0.015,73.165,0.148,44.8761,Non Bankcrupt
+Bank Himpunan Saudara 1906 Tbk.,SDRA,2010,0.71,0.026,0.018,65.748,0.143,40.5444,Non Bankcrupt
+Bank Internasional Indonesia Tbk.,BNII,2008,0.88,0.007,0.008,0.021,0.127,1.2318,Grey Area
+Bank Internasional Indonesia Tbk.,BNII,2009,0.82,0.006,-0.001,0.398,0.129,1.3581,Grey Area
+Bank Internasional Indonesia Tbk.,BNII,2010,0.75,0.01,0.006,1.516,0.113,1.9552,Grey Area
+Bank Kesawan Tbk.,BKSW,2008,0.23,-0.003,0.001,0.033,0.102,0.3993,Bankcrupt
+Bank Kesawan Tbk.,BKSW,2009,0.27,0.003,0.002,0.171,0.098,0.5318,Bankcrupt
+Bank Kesawan Tbk.,BKSW,2010,0.24,0.004,0.044,4.829,0.094,3.4326,Non Bankcrupt
+Bank Mandiri (Persero) Tbk.,BMRI,2008,0.06,0.022,0.015,1.77,0.089,1.3009,Grey Area
+Bank Mandiri (Persero) Tbk.,BMRI,2009,0.05,0.026,0.018,12.756,0.097,7.91,Non Bankcrupt
+Bank Mandiri (Persero) Tbk.,BMRI,2010,0.05,0.031,0.02,11.273,0.095,7.0246,Non Bankcrupt
+Bank Mega Tbk.,MEGA,2008,0.05,0.019,0.014,1.488,0.114,1.136,Grey Area
+Bank Mega Tbk.,MEGA,2009,0.08,0.016,0.014,0.006,0.111,0.2792,Bankcrupt
+Bank Mega Tbk.,MEGA,2010,0.06,0.021,0.018,0.007,0.092,0.2594,Bankcrupt
+Bank Negara Indonesia Tbk.,BBNI,2008,0.08,0.009,0.006,1.167,0.1,0.9238,Bankcrupt
+Bank Negara Indonesia Tbk.,BBNI,2009,0.07,0.015,0.011,7.982,0.104,5.0309,Non Bankcrupt
+Bank Negara Indonesia Tbk.,BBNI,2010,0.08,0.022,0.017,18.016,0.104,11.0905,Non Bankcrupt
+Bank OCBC NISP Tbk.,NISP,2008,0.17,0.013,0.009,0.005,0.095,0.3499,Bankcrupt
+Bank OCBC NISP Tbk.,NISP,2009,0.16,0.016,0.012,0.465,0.104,0.6334,Bankcrupt
+Bank OCBC NISP Tbk.,NISP,2010,0.13,0.014,0.007,0.353,0.086,0.4977,Bankcrupt
+Bank Pan Indonesia Tbk.,PNBN,2008,0.32,0.017,0.011,0.872,0.102,1.0633,Bankcrupt
+Bank Pan Indonesia Tbk.,PNBN,2009,0.31,0.017,0.012,1.956,0.181,1.7888,Grey Area
+Bank Pan Indonesia Tbk.,PNBN,2010,0.22,0.017,0.012,1.706,0.088,1.4402,Grey Area
+Bank Permata Tbk.,BNLI,2008,0.14,0.011,0.008,0.004,0.101,0.3168,Bankcrupt
+Bank Permata Tbk.,BNLI,2009,0.14,0.013,0.009,0.225,0.122,0.4705,Bankcrupt
+Bank Permata Tbk.,BNLI,2010,0.12,0.015,0.014,1.283,0.092,1.0754,Bankcrupt
+Bank Rakyat Indonesia Tbk.,BBRI,2008,0.05,0.034,0.024,3.832,0.124,2.61,Non Bankcrupt
+Bank Rakyat Indonesia Tbk.,BBRI,2009,0.04,0.027,0.023,13.589,0.122,8.4359,Non Bankcrupt
+Bank Rakyat Indonesia Tbk.,BBRI,2010,0.03,0.036,0.028,14.053,0.124,8.7358,Non Bankcrupt
+Bank Tabungan Pensiunan Nasional Tbk.,BTPN,2008,0.07,0.043,0.028,0.05,0.193,0.4584,Bankcrupt
+Bank Tabungan Pensiunan Nasional Tbk.,BTPN,2009,0.04,0.029,0.019,0.901,0.179,0.8733,Bankcrupt
+Bank Tabungan Pensiunan Nasional Tbk.,BTPN,2010,0.03,0.033,0.024,4.922,0.166,3.2842,Non Bankcrupt
+Bank Victoria International Tbk.,BVIC,2008,0.62,0.008,0.003,0.162,0.096,0.9619,Bankcrupt
+Bank Victoria International Tbk.,BVIC,2009,0.52,0.009,0.006,2.442,0.106,2.2312,Grey Area
+Bank Victoria International Tbk.,BVIC,2010,0.38,0.013,0.01,0.81,0.101,1.0918,Bankcrupt
